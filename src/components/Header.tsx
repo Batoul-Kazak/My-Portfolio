@@ -12,7 +12,7 @@ const Header = () => {
         }}
       >
         <h2
-          className="animate-swivel my-name text-hue"
+          className=" my-name text-hue"
           style={{ fontSize: "1.6rem", fontWeight: "bold", color: "#fff" }}
         >
           Batoul Kazak
